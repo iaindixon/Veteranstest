@@ -20,17 +20,14 @@ body {
 #content {
     height: 50%;
     width: 100%;
-<<<<<<< HEAD
     overflow: hidden;
     background-color: #fff;
 }
 #content > img {
     margin-top: -25px;   
 }
-=======
     background-color: #fff;
 }
->>>>>>> origin/master
 /** Footer **/
 #footer {
     height: 20%;
